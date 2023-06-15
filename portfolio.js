@@ -16,7 +16,7 @@ export const contact = {};
 
 export const socialLinks = {
   facebook: "https://www.facebook.com/kunal.wankhede.140",
-  instagram: "https://www.instagram.com/kunal_sonar_19/",
+  instagram: "https://www.instagram.com/krazyykunal_21/",
   twitter: "https://twitter.com/Kunalsonar007",
   github: "https://github.com/Kunalsonar007",
   linkedin: "https://www.linkedin.com/in/kunal-wankhede-295680249/",
